@@ -51,32 +51,54 @@ namespace MathAndComparisonOperators
             //Console.WriteLine(isWarm);
             //Console.ReadLine();
 
-            Console.WriteLine("Please enter a number");
-            int yourNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(yourNumber * 50);
-          
+            //Console.WriteLine("Please enter a number");
+            //int yourNumber = Convert.ToInt32(Console.ReadLine()); //converted code in one line instead of two 
+            //Console.WriteLine(yourNumber * 50);
 
-            Console.WriteLine("Please enter another number");
-            int anotherNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(anotherNumber + 25);
 
-            Console.WriteLine("Another");
-            int number2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number2 / 12.5);
+            //Console.WriteLine("Please enter another number");
+            //int anotherNumber = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(anotherNumber + 25);
 
-            Console.WriteLine("Again");
-            int number3 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number3 <= 50);
+            //Console.WriteLine("Another");
+            //int number2 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(number2 / 12.5);
 
-            Console.WriteLine("and again...");
-            int number4 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(number4 % 7);
-            
+            //Console.WriteLine("Again"); //just displaying what needs to be said next 
+            //int number3 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(number3 <= 50); //created a bool statement true or false 
+
+            //Console.WriteLine("and again...");
+            //int number4 = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine(number4 % 7); //used modulus operator
+
+
+            //Console.ReadLine(); //read line is at the end so that it doesnt get stuck on the command prompt 
+
+
+            Console.WriteLine("Anonymous Income Comparison Program");
+            Console.WriteLine("Person 1\nHourly Rate?");
+            int hourlyrate = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hours worked per week?");
+            int hoursworked = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Person 2\nHourly Rate?");
+            int hourlyrate2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hours worked per week?");
+            int hoursworked2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Annual salary of Person 1:");
+            Console.WriteLine(hourlyrate * hoursworked);
+
+            Console.WriteLine("Annual salary of Person 2:");
+            Console.WriteLine(hourlyrate2 * hoursworked2);
+
+            Console.WriteLine("Does person 1 make more money than Person 2?");
+            int Person1 = hourlyrate * hoursworked;
+            int Person2 = hourlyrate2 * hoursworked2;
+            Console.WriteLine(Person1 >= Person2);
 
             Console.ReadLine();
-
-
-
 
         }
     }
