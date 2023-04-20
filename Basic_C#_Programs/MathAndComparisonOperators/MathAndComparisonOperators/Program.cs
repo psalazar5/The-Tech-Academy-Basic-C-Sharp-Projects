@@ -77,26 +77,28 @@ namespace MathAndComparisonOperators
 
 
             Console.WriteLine("Anonymous Income Comparison Program");
-            Console.WriteLine("Person 1\nHourly Rate?");
-            int hourlyrate = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Person 1\nHourly Rate?"); //break line into new line and put hourly rate?
+            int hourlyrate = Convert.ToInt32(Console.ReadLine()); //converted this into one line instead of two 
             Console.WriteLine("Hours worked per week?");
-            int hoursworked = Convert.ToInt32(Console.ReadLine());
+            int hoursworked = Convert.ToInt32(Console.ReadLine()); //user needs to input their integer of hoursworked and this converts it into 
 
-            Console.WriteLine("Person 2\nHourly Rate?");
+            Console.WriteLine("Person 2\nHourly Rate?"); 
             int hourlyrate2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
             int hoursworked2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Annual salary of Person 1:");
-            Console.WriteLine(hourlyrate * hoursworked);
+            Console.WriteLine(hourlyrate * hoursworked * 52);
 
-            Console.WriteLine("Annual salary of Person 2:");
-            Console.WriteLine(hourlyrate2 * hoursworked2);
+            Console.WriteLine("Annual salary of Person 2:"); 
+            Console.WriteLine(hourlyrate2 * hoursworked2 * 52); //did math operation on both of these person1 and 2 and spit back out their salaries 
 
             Console.WriteLine("Does person 1 make more money than Person 2?");
-            int Person1 = hourlyrate * hoursworked;
-            int Person2 = hourlyrate2 * hoursworked2;
+            int Person1 = hourlyrate * hoursworked; //made person1 and person 2 in these lines 
+            int Person2 = hourlyrate2 * hoursworked2; //used their int of hourly rate and hoursworked and made a boolean statement out of it 
             Console.WriteLine(Person1 >= Person2);
+
+            
 
             Console.ReadLine();
 
