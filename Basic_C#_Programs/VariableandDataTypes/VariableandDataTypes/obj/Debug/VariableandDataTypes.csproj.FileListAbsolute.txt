@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\bin\Debug\VariableandDataTypes.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\bin\Debug\VariableandDataTypes.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\bin\Debug\VariableandDataTypes.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\obj\Debug\VariableandDataTypes.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\obj\Debug\VariableandDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\obj\Debug\VariableandDataTypes.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\VariableandDataTypes\VariableandDataTypes\obj\Debug\VariableandDataTypes.pdb
