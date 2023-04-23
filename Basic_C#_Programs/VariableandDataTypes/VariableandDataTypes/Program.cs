@@ -79,7 +79,7 @@ namespace VariableandDataTypes
             //Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\" ");
             //string Answer = Console.ReadLine();
             //bool yourAnswer = Convert.ToBoolean(Answer);
-            //Console.WriteLine("You answered" + Answer + " we will answer back soon.");
+            //Console.WriteLine("You answered " + Answer + "we will answer back soon.");
             ////bool yourAnswer = convert.ToBoolean(Console.ReadLine());
 
             //Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
@@ -97,38 +97,38 @@ namespace VariableandDataTypes
             //int yourHours = Convert.ToInt32(numberHours); //conver string to int 
             //Console.WriteLine("Your hours are our satisfaction, good job on " + yourHours + " hours today, thank you for your answers and an instructor will respond to\nyou shortly. Have a great day!");
             //Console.ReadLine(); //reads line and keeps responses and questions in the commaand 
-            ////int yourHours = Convert.ToInt32(Console.ReadLine());
-           
+            //                    //int yourHours = Convert.ToInt32(Console.ReadLine());
 
-            //Addition total 
-            int num1 = 1827823; 
-            int num2 = 13749284;
-            int total = num1 + num2;
-            Console.WriteLine(total);
 
-            //Subtraction (difference)
-            int num3 = 379283;
-            int num4 = 29248;
-            int difference = num3 - num4;
-            Console.WriteLine(difference);
+            ////Addition total 
+            //int num1 = 1827823; 
+            //int num2 = 13749284;
+            //int total = num1 + num2;
+            //Console.WriteLine(total);
 
-            //Multiplication(product)
-            int num5 = 27739;
-            int num6 = 92974;
-            int product = num5 * num6;
-            Console.WriteLine(product);
-            //Or i can do console.writeline(num5 * num6);
+            ////Subtraction (difference)
+            //int num3 = 379283;
+            //int num4 = 29248;
+            //int difference = num3 - num4;
+            //Console.WriteLine(difference);
 
-            //Division(quotient)
-            int num7 = 356288;
-            int num8 = 343;
-            int quotient = num7 / num8;
-            Console.WriteLine(quotient);
+            ////Multiplication(product)
+            //int num5 = 27739;
+            //int num6 = 92974;
+            //int product = num5 * num6;
+            //Console.WriteLine(product);
+            ////Or i can do console.writeline(num5 * num6);
 
-            //Math operation on a string 
-            string name = "Luke";
-            int number = 10;
-            Console.WriteLine(name + number);
+            ////Division(quotient)
+            //int num7 = 356288;
+            //int num8 = 343;
+            //int quotient = num7 / num8;
+            //Console.WriteLine(quotient);
+
+            ////Math operation on a string 
+            //string name = "Luke";
+            //int number = 10;
+            //Console.WriteLine(name + number);
             Console.ReadLine();
         }
     }

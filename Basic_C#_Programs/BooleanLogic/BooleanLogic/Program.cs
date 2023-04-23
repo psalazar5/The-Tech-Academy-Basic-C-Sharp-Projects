@@ -151,12 +151,39 @@ namespace BooleanLogic
             //}
 
 
-            //Ternary operator 
-            int number1 = 7;
-            int number2 = 12;
+            ////Ternary operator 
+            //int number1 = 7;
+            //int number2 = 12;
 
-            string result = number1 > number2 ? "number 1 is greater than number 2" : "number 1 is not greater than number2";
-            Console.WriteLine(result);
+            //string result = number1 > number2 ? "number 1 is greater than number 2" : "number 1 is not greater than number2";
+            //Console.WriteLine(result);
+
+            ////C# switch
+            //int year = 4;
+            //switch (year)
+            //{
+            //    case 1:
+            //        Console.WriteLine("2000");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("2001");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("2002");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("2003");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("2004");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("2005");
+            //        break;
+                    
+            //} ////outputs 2003
+
+
 
 
             Console.ReadLine();

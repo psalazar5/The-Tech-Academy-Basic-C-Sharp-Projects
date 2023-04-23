@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Loops\Loops\obj\Debug\Loops.pdb
