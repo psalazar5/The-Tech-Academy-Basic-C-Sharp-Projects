@@ -29,16 +29,16 @@ namespace StringFunctions
 
             //urmom.Append("Urmom");
 
-            string line1 = "Pablo is ";
+            string line1 = "Pablo is "; //created 3 strings here to concatenate later 
             string line2 = "an awesome person who";
             string line3 = " loves to workout and talk with friends.";
 
             line1 = line1.ToUpper();
 
-            StringBuilder sp = new StringBuilder();
-            sp.Append(line1);
-            sp.Append(line2);
-            sp.AppendLine(line3);
+            StringBuilder sp = new StringBuilder(); //string builder to create a sentence at a time , basically concatenated here with 3 append/appendlines
+            sp.Append(line1); 
+            sp.Append(line2); 
+            sp.AppendLine(line3); //appendline right after append will still be in the same line but another appendline right after the first appendline will start on a brand new line.
 
             Console.WriteLine(sp);
             
