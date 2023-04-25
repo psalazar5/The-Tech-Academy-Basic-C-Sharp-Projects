@@ -6,7 +6,7 @@ namespace ArraysAndLists
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
 
             //int[] numArray = new int[5];
@@ -47,17 +47,24 @@ namespace ArraysAndLists
             string[] nameArray = new string[] { "Pablo", "Justin", "Joel" }; //here is an array of strings created from 0-2 index 
             Console.WriteLine("Pick an index and a name will represent: ");
             int forname = Convert.ToInt32(Console.ReadLine());
+            bool isnamefalseortrue = false;
 
-            if (forname < 0 || forname > nameArray.Length - 1) // if forname int is less than 0 or forname in is more than the array length do this. else give the correct answer 
+            do
             {
-                Console.WriteLine("Please pick a number between 0-2:");
-                forname = Convert.ToInt32(Console.ReadLine());
+                if (forname < 0 || forname > nameArray.Length - 1) // if forname int is less than 0 or forname in is more than the array length do this. else give the correct answer 
+                {
+                    Console.WriteLine("Please pick a number between 0-2:");
+                    forname = Convert.ToInt32(Console.ReadLine());
+                }
+                else
+                {
+                    Console.WriteLine(nameArray[forname]);
+                    isnamefalseortrue = true;
+
+                }
             }
-            else
-            {
-                Console.WriteLine(nameArray[forname]);
-                
-            }
+            while (!isnamefalseortrue);
+            
             
 
             int[] numberArray = new int[] { 20, 40, 60, 80, 100 }; //created array of integers 
@@ -70,6 +77,7 @@ namespace ArraysAndLists
             {
                 Console.WriteLine("That number does not exist in the array, sorry.");
             }
+
 
             List<string> foodList = new List<string>(); //Here the list of strings is created indicating food strings from index 0-3
             foodList.Add("Ice cream");
