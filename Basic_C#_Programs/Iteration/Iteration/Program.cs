@@ -212,7 +212,10 @@ namespace Iteration
 
             //List<string> nameList = new List<string>() { "Pablo", "Justin", "Billy", "Pablo" };
 
-
+            //foreach(string names in nameList)
+            //{
+            //    Console.WriteLine(names);
+            //}
 
             //Console.WriteLine("Pick a name: Pablo, Justin, or Billy");
             //string namePicked = Console.ReadLine();
@@ -222,34 +225,45 @@ namespace Iteration
             //{
             //    for (int i = 0; i < nameList.Count; i++)
             //    {
-            //        if(nameList[i] == namePicked)
+            //        if (nameList[i] == namePicked)
             //        {
             //            Console.WriteLine(i);
             //        }
             //    }
-            //} else
+            //}
+            //else
             //{
             //    Console.WriteLine("User is not on the list");
             //}
             //Console.ReadLine();
 
             //---------------------------------------------------------------------------------------------------------------------//
+            //Create a list of strings that has at least two identical strings in the list
+            //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
 
             List<string> foodNames = new List<string>() { "Ice cream", "Pizza", "Cookies", "Ice cream" };
             List<string> foodNames1 = new List<string>(); //created another list to go through the list that has a duplicate and add into this new list 
-                    
 
-                foreach(string food in foodNames)
-                {
+
+            foreach (string food in foodNames)
+            {
                 if (foodNames1.Contains(food)) //if statement starts at 244 ends at 250 and goes through the list of items. If it sees that there is already a food item inside the list it will display duplicate.
                 {
-                    Console.WriteLine(food + " is a duplicate"); //checks if there is a duplicate and will input this line of code into the input 
-                } else
+                    Console.WriteLine(food + " is a duplicate"); //checks if there is a duplicate and will input this line of code into the input
+                    foodNames1.Add(food);
+                }
+                else
                 {
                     Console.WriteLine(food + " This item is unique."); // 
                     foodNames1.Add(food); // This adds the items into foodnames.1 empty list 
                 }
-                }
+            }
+            Console.WriteLine("FoodNames1 without duplicates:");
+            foreach (string food in foodNames1)
+            {
+                Console.WriteLine(food);
+            }
+
             Console.ReadLine();
         }
     }
