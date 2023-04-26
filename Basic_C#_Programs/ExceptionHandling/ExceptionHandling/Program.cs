@@ -7,48 +7,49 @@ namespace ExceptionHandling
     {
         static void Main(string[] args)
         {
-            //bool trueOrnot = false;
+            // bool trueOrnot = false;
 
-            //do
-            //{
-            //    try
-            //    {
-            //        Console.WriteLine("Pick a number");
-            //        int numberOne = Convert.ToInt32(Console.ReadLine());
-            //        Console.WriteLine("Pick a second number");
-            //        int numberTwo = Convert.ToInt32(Console.ReadLine());
-            //        Console.WriteLine("Dividing the two... ");
-            //        int numberThree = numberOne / numberTwo;
-            //        Console.WriteLine(numberOne + " divided by " + numberTwo + " = " + numberThree); //concatenated three strings into saying number one / number two = numberthree
-            //        Console.ReadLine();
-            //        trueOrnot = true;
-            //    }
-            //    catch (FormatException) // If the info above doesnt execute and there should be an error here would be the error. (Format exception)
-            //    {
-            //        Console.WriteLine("Please type a whole number.");
+            // do
+            // {
+            //     try
+            //     {
+            //         Console.WriteLine("Pick a number");
+            //         int numberOne = Convert.ToInt32(Console.ReadLine());
+            //         Console.WriteLine("Pick a second number");
+            //         int numberTwo = Convert.ToInt32(Console.ReadLine());
+            //         Console.WriteLine("Dividing the two... ");
+            //         int numberThree = numberOne / numberTwo;
+            //         Console.WriteLine(numberOne + " divided by " + numberTwo + " = " + numberThree); //concatenated three strings into saying number one / number two = numberthree
+            //         Console.ReadLine();
+            //         trueOrnot = true;
+            //     }
+            //     catch (FormatException) // If the info above doesnt execute and there should be an error here would be the error. (Format exception)
+            //     {
+            //         Console.WriteLine("Please type a whole number.");
 
-            //    }
-            //    catch (DivideByZeroException) //if divided by 0...
-            //    {
-            //        Console.WriteLine("Please dont divide by zero");
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        Console.WriteLine(ex.Message);
-            //    }
-            //    finally
-            //    {
-            //        Console.WriteLine("Click Enter");
-            //        Console.ReadLine();
-            //    }
-            //} while (trueOrnot == false); 
-            // Console.WriteLine("Emerged from try/catch block)
+            //     }
+            //     catch (DivideByZeroException) //if divided by 0...
+            //     {
+            //         Console.WriteLine("Please dont divide by zero");
+            //     }
+            //     catch (Exception ex)
+            //     {
+            //         Console.WriteLine(ex.Message);
+            //     }
+            //     finally
+            //     {
+            //         Console.WriteLine("Click Enter to continue ");
+            //         Console.ReadLine();
+            //     }
+            // } while (trueOrnot == false);
+            // Console.WriteLine("Emerged from try/catch block click enter to exit:");
+
             //Console.ReadLine();
 
             //---------------------------------------------------------------------------------------------------------------//
 
             List<int> listNumbers = new List<int>() { 0, 3, 6, 8 };
-            foreach(int numbers in listNumbers) //here I listed all numbers from the list on the console app
+            foreach (int numbers in listNumbers) //here I listed all numbers from the list on the console app
             {
                 Console.WriteLine(numbers); //wrote all nubers out 
             }
@@ -61,23 +62,22 @@ namespace ExceptionHandling
                     Console.WriteLine(number / numberPicked); //number inside the lists divided by numbers picked from the int above. 
                 }
             }
-            catch(FormatException ) //if any errors happen catch these blocks
+            catch (FormatException) //if any errors happen catch these blocks
             {
-                Console.WriteLine("Please enter a whole number: ");               
+                Console.WriteLine("Please enter a whole number: ");
             }
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Please dont divide by zero.");
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
             }
             finally
             {
-                Console.WriteLine("Click Enter to exit");
+                Console.WriteLine("Click Enter");
             }
-            Console.WriteLine();
             Console.ReadLine();
         }
 

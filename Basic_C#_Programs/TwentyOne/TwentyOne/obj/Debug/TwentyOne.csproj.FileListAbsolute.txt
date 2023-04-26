@@ -1,0 +1,14 @@
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\psala\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
