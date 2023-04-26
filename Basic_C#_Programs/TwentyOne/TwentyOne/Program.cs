@@ -12,10 +12,10 @@ namespace TwentyOne
         {
             Deck deck = new Deck();
             int timesShuffled = 0;
-            deck = Shuffle(deck, out timesShuffled ,times: 3); ////the shuffled deck object is returned from the Shuffle method.
+            deck = Shuffle(deck, out timesShuffled, times: 3); ////the shuffled deck object is returned from the Shuffle method.
             
             foreach (Card card in deck.Cards)
-            {
+            { 
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
@@ -41,6 +41,7 @@ namespace TwentyOne
             }
             
             return deck; 
+            
         }
         //public static Deck Shuffle(Deck deck, int times)
         //{

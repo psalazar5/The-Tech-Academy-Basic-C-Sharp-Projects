@@ -30,8 +30,8 @@ namespace TwentyOne
                 foreach(string suit in Suits) // the foreach(string suit in Suits) loop iterates through each suit in the Suits list.
                 {
                     Card card = new Card(); //inside this nested loop Card object is created with the currnt face and suit. This card object is then added to the cards list using the add method
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Suit = suit; // assigns new card from line 32 current loops suit 
+                    card.Face = face; // assigns new card from line 32 current loops face 
                     Cards.Add(card); //Finally the cards list is populated with all 52 cards in a standard deck of cards, and the deck is ready to be used in a game 
                 }
             }

@@ -8,7 +8,7 @@ namespace MethodSubmissionAssignment
 {
     class Car
     {
-        public int myMethod(int num1, int num2 = 10)
+        public int myMethod(int num1, int num2 = 10) //num 2 = 10 means optional parameter 
         {
             return num1 + num2;
         }
