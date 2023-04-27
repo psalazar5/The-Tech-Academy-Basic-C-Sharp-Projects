@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\bin\Debug\MethodsandObjectsSubmission.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\bin\Debug\MethodsandObjectsSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\bin\Debug\MethodsandObjectsSubmission.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\obj\Debug\MethodsandObjectsSubmission.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\obj\Debug\MethodsandObjectsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\obj\Debug\MethodsandObjectsSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodsandObjectsSubmission\MethodsandObjectsSubmission\obj\Debug\MethodsandObjectsSubmission.pdb
