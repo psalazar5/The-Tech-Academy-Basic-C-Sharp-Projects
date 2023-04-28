@@ -26,6 +26,8 @@ namespace MethodsandObjectsSubmission
 
             //Call the SayName method on the employee object to write its fullname to the console.
             employee1.SayName(); //Here it calls from Person class the method called SayName
+
+            //Just additional calling methods 
             person1.SayName(); //additional method to call in person1's name 
             employee1.personID(); //additional practice for employee1' ID to be displayed 
             Console.ReadLine();

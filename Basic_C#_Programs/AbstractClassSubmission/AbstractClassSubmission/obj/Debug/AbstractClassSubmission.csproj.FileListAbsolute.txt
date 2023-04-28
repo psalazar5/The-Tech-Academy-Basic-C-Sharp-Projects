@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.pdb
