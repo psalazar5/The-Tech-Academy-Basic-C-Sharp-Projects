@@ -12,10 +12,10 @@ namespace AbstractClassSubmission
         {
             Employee employee = new Employee()
             {
-                FirstName = "Sample",
-                LastName = "Student",
+                FirstName = "Sample", // 
+                LastName = "Student", // 
             };
-            employee.sayName();
+            employee.sayName(); //
             Console.ReadLine();
             
         }
