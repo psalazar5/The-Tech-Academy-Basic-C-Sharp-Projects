@@ -6,20 +6,20 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Player
+    public class Player<T>
     {
-        public List<Card> Hand{ get; set; }
+        public List<T> Hand{ get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
 
-        public static Game operator+ (Game game ,Player player) //overloading operator plus, takes the two operands and returns the game and takes the game and adds player to it 
+        public static Game operator +(Game game, Player player) //overloading operator plus, takes the two operands and returns the game and takes the game and adds player to it 
         {
             game.Players.Add(player);
             return game;
         }
         //subtract overload player 
-        public static Game operator- (Game game, Player player)
+        public static Game operator -(Game game, Player player)
         {
             game.Players.Remove(player);
             return game;
