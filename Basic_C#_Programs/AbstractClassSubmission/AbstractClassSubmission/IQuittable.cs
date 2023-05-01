@@ -8,6 +8,6 @@ namespace AbstractClassSubmission
 {
     interface IQuittable //created an interface called IQuittable
     {
-        void Quit(); // created a void method called quit 
+        void Quit( ); // created a void method called quit 
     }
 }

@@ -13,9 +13,11 @@ namespace AbstractClassSubmission
             Console.WriteLine($"My name is {FirstName} {LastName}");
 
         }
+        
+
         public void Quit()
         {
-            throw new NotImplementedException();
+            Console.WriteLine(FirstName + " " + LastName + " Quit");
         }
     }
 }
