@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractClassSubmission
 {
-    interface IQuittable
+    interface IQuittable //created an interface called IQuittable
     {
+        void Quit(); // created a void method called quit 
     }
 }
