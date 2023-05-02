@@ -11,36 +11,22 @@ namespace TwentyOne
     { //The code inside the constructor generates a standard deck of cards with 52 cards, which are stored in a List<Card> called Cards.
         public Deck() //The public Deck() constructor initializes a new instance of the Deck class. 
         {
-            //Cards = new List<Card>();
-            //Card cardOne = new Card();
-            //cardOne.Face = "Two";
-            //cardOne.Suit = "Hearts";
-            //Cards.Add(cardOne);
-
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven",
-                "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
 
-            foreach (string face in Faces) //for each of face named string insides faces we do...
+            for(int i = 0; i < 13; i++)
             {
-                foreach (string suit in Suits) // the foreach(string suit in Suits) loop iterates through each suit in the Suits list.
+                for(int j = 0; j < 4; j++)
                 {
-                    Card card = new Card(); //inside this nested loop Card object is created with the currnt face and suit. This card object is then added to the cards list using the add method
-                    card.Suit = suit; // assigns new card from line 32 current loops suit 
-                    card.Face = face; // assigns new card from line 32 current loops face 
-                    Cards.Add(card); //Finally the cards list is populated with all 52 cards in a standard deck of cards, and the deck is ready to be used in a game 
+                    Card card = new Card();
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);
                 }
             }
-
-
         }
         public List<Card> Cards { get; set; }
 
-        public void Shuffle( int times = 1) //The Shuffle method is a static method of the Program class that takes a Deck object as input and returns a shuffled version of the deck.
+        public void Shuffle(int times = 1) //The Shuffle method is a static method of the Program class that takes a Deck object as input and returns a shuffled version of the deck.
         {
             for (int i = 0; i < times; i++)//goes thru the deck of cards 
             { 

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F693FD2E-4B37-4C54-8D42-EFE6A45EF9F4}</ProjectGuid>
+    <ProjectGuid>{0BFE6538-6FD7-4C7F-B691-3B6762C9F8E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ParametersAssignment</RootNamespace>
-    <AssemblyName>ParametersAssignment</AssemblyName>
+    <RootNamespace>ParsingEnumsAssignment</RootNamespace>
+    <AssemblyName>ParsingEnumsAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Days.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
