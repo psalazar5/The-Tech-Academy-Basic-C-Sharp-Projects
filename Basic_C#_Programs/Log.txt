@@ -1,0 +1,34 @@
+Here is some text.Ten of Clubs
+
+Eight of Clubs
+
+Four of Spades
+
+Six of Clubs
+
+Nine of Diamonds
+
+Six of Clubs
+
+Five of Clubs
+
+Seven of Spades
+
+Ten of Diamonds
+
+Eight of Clubs
+
+Queen of Clubs
+
+Jack of Hearts
+
+Seven of Spades
+
+Nine of Diamonds
+
+Six of Hearts
+
+Ace of Spades
+
+Nine of Hearts
+
