@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\bin\Debug\Date-TimeSubmission.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\bin\Debug\Date-TimeSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\bin\Debug\Date-TimeSubmission.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\obj\Debug\Date-TimeSubmission.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\obj\Debug\Date-TimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\obj\Debug\Date-TimeSubmission.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Date-TimeSubmission\Date-TimeSubmission\obj\Debug\Date-TimeSubmission.pdb
