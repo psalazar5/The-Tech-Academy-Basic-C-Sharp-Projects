@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Casino.Interfaces;
 
-namespace TwentyOne
+namespace Casino.TwentyOne
 {
     public class TwentyOneGame : Game, IWalkAway
     {
@@ -17,7 +18,7 @@ namespace TwentyOne
             {
                 player.Hand = new List<Card>();
                 player.Stay = false;
-            }
+            } 
             Dealer.Hand = new List<Card>();
             Dealer.Stay = false;
             Dealer.Deck = new Deck();

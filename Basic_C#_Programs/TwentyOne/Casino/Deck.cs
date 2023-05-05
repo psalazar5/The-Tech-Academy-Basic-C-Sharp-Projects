@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Deck //The public class Deck statement declares a public class called Deck within the TwentyOne namespace.
                       // This means that the class can be used by code outside of the TwentyOne namespace.
