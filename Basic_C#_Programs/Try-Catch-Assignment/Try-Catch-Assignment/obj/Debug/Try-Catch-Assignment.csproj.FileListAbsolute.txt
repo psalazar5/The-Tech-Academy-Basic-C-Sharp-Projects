@@ -1,0 +1,7 @@
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\bin\Debug\Try-Catch-Assignment.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\bin\Debug\Try-Catch-Assignment.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\bin\Debug\Try-Catch-Assignment.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\obj\Debug\Try-Catch-Assignment.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\obj\Debug\Try-Catch-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\obj\Debug\Try-Catch-Assignment.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\Try-Catch-Assignment\Try-Catch-Assignment\obj\Debug\Try-Catch-Assignment.pdb
