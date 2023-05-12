@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.IO;
 using Casino;
@@ -21,6 +22,7 @@ namespace TwentyOne
                 foreach(var exception in Exceptions)
                 {
                     Console.Write(exception.Id + " | ");
+                    Console.Write(exception.ExceptionType + " | ");
                     Console.Write(exception.ExceptionMessage + " | ");
                     Console.Write(exception.TimeStamp + " | ");
                     Console.WriteLine();
@@ -38,8 +40,7 @@ namespace TwentyOne
             }
           
             Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
-            string answer = Console.ReadLine().ToLower();
-
+            string answer = Console.ReadLine().ToLower();    
             if (answer == "yes" || answer == "yea" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
@@ -86,15 +87,15 @@ namespace TwentyOne
                                         Integrated Security = True; Connect Timeout = 30; Encrypt = False; 
                                         TrustServerCertificate = False; ApplicationIntent = ReadWrite; 
                                         MultiSubnetFailover = False";
-            string queryString = @"INSERT INTO Exceptions(ExceptionType, ExceptionMessage, TimeStamp) VALUES
+            string queryString = @"INSERT INTO Exceptions (ExceptionType, ExceptionMessage, TimeStamp) VALUES
                                     (@ExceptionType, @ExceptionMessage, @TimeStamp)";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
                 SqlCommand command = new SqlCommand(queryString, connection);
-                command.Parameters.Add("@ExceptionType", System.Data.SqlDbType.VarChar);
-                command.Parameters.Add("@ExceptionMessage", System.Data.SqlDbType.VarChar);
-                command.Parameters.Add("@TimeStamp", System.Data.SqlDbType.DateTime);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
 
                 command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
                 command.Parameters["@ExceptionMessage"].Value = ex.Message;
