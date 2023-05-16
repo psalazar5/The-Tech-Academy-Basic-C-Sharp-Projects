@@ -22,6 +22,6 @@ in the course combining all these learning concepts they all working together us
 </hr>
 <h2>Web-Application-MVC:</h2>
 </hr>
-<p>In this web application news letter MVC, I was instructed to understand more about model, view and controller and how they work inside a web application. In this specific news letter application, I was able to demonstrate</br>
+<p>In this web application news letter MVC, I was instructed to understand more about model, view and controller and how they work inside a web application. In this specific news letter application, I was able to demonstrate
 how to create a database in SQL and connect it back to visual studio, able to let a user input their contact information and once submitted they would be able to sign up for our news letter application and be inside the database. </p>
 </hr>
