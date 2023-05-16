@@ -10,7 +10,7 @@ namespace Date_TimeSubmission
     {
         static void Main(string[] args)
         { //This prints current date time 
-
+            //Test
             DateTime now = DateTime.Now;
             Console.WriteLine("Current date and time: " + now);
 
