@@ -2,7 +2,7 @@
 
 <p>This Tech Academy repository will contain my small projects based on basic C# and .NetFramework.</p>
 
-<h2>Projects: <h2>
+<h3>Projects: <h3>
 </hr>
   <ul>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance">Car-Insurance-Project</a></li>
