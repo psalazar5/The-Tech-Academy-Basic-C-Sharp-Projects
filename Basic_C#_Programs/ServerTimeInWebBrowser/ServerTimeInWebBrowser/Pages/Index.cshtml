@@ -5,7 +5,9 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Hello World!</h1>
-    <h2">Click on Privacy to checkout the servertime since the webpage is being created!</h2>
+    <h1 class="display-4">Welcome to MyPage!</h1>
+    <h2>Click on <a href="https://localhost:44323/Privacy">Privacy</a> to checkout the servertime since the webpage is being created!</h2> <!--Styling of h2 element on index.cshtml-->
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </hr>
+    <p>This page is being edited at the moment...has been under construction since: @ViewData["TimeStamp"].</p>
 </div>

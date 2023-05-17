@@ -19,7 +19,8 @@ namespace ServerTimeInWebBrowser.Pages
 
         public void OnGet()
         {
-
+            string dateTime = DateTime.Now.ToShortDateString(); //added the string with dateTime == DateTime.Now.ToShortDateString();
+            ViewData["TimeStamp"] = dateTime;
         }
     }
 }

@@ -35,3 +35,4 @@ C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#
 C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ServerTimeInWebBrowser\ServerTimeInWebBrowser\obj\Debug\netcoreapp3.1\ServerTimeInWebBrowser.pdb
 C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ServerTimeInWebBrowser\ServerTimeInWebBrowser\obj\Debug\netcoreapp3.1\ServerTimeInWebBrowser.genruntimeconfig.cache
 C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ServerTimeInWebBrowser\ServerTimeInWebBrowser\obj\Debug\netcoreapp3.1\ServerTimeInWebBrowser.csproj.CopyComplete
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ServerTimeInWebBrowser\ServerTimeInWebBrowser\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\MyFirstAzureWebApp120230515154945 - Web Deploy\profile.arm.json
