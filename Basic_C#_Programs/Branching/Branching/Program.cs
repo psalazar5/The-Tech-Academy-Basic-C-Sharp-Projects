@@ -45,8 +45,6 @@ namespace Branching
             //}
 
 
-
-
             //int currenttemperature = 80;
             //int roomtemperature = 70;
 
@@ -115,9 +113,6 @@ namespace Branching
                     
                 }
             }
-           
-
-            
             Console.ReadLine();
 
         }
