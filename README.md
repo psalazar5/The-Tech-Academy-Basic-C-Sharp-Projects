@@ -1,4 +1,4 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# The Tech Academy's C# Practice Programs!
 
 <p>This Tech Academy repository will contain my small projects based on basic C# and .NetFramework.</p>
 
