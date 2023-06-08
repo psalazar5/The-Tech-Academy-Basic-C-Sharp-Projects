@@ -1,19 +1,19 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# The Tech Academy's C# Practice Programs!
 
 <p>This Tech Academy repository will contain my small projects based on basic C# and .NetFramework.</p>
 
 <h2>Projects: <h2>
 </hr>
-  <ul>
+  <ol>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance">Car-Insurance-Project</a></li>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOne">Twenty-One-Casino-Game</a></li>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/WebApplicationMVC">News-Letter-MVC</a></li>
-  </ul>
+  </ol>
 </hr>
 <h2>Car Insurance Project:</h2>
 </hr>
-<p>This project is an MVC web application that works the same as a car insurance website, it takes users input on policy information and calulates a quote based oin business logic.</br>
-There is also an admin page that allows staff to view all quotes being issued.</p>
+<p>This project is an MVC web application that works the same as a car insurance website, it takes users input on policy information and calulates a quote based on business logic.</br>
+There is also an admin page that allows staff to view all quotes being issued. Using home controller , insuree controller and using binding method to create and action to edit, delete and check details out. Model binding and have the user be able to check out details, creation and deletion. </p>
 </hr>
 <h2>TwentyOne Project:</h2>
 </hr>
