@@ -4,11 +4,11 @@
 
 <h2>Projects: <h2>
 </hr>
-  <ul>
+  <ol>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance">Car-Insurance-Project</a></li>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOne">Twenty-One-Casino-Game</a></li>
     <li><a href="https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/WebApplicationMVC">News-Letter-MVC</a></li>
-  </ul>
+  </ol>
 </hr>
 <h2>Car Insurance Project:</h2>
 </hr>
