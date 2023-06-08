@@ -12,8 +12,8 @@
 </hr>
 <h2>Car Insurance Project:</h2>
 </hr>
-<p>This project is an MVC web application that works the same as a car insurance website, it takes users input on policy information and calulates a quote based oin business logic.</br>
-There is also an admin page that allows staff to view all quotes being issued.</p>
+<p>This project is an MVC web application that works the same as a car insurance website, it takes users input on policy information and calulates a quote based on business logic.</br>
+There is also an admin page that allows staff to view all quotes being issued. Using home controller , insuree controller and using binding method to create and action to edit, delete and check details out. Model binding and have the user be able to check out details, creation and deletion. </p>
 </hr>
 <h2>TwentyOne Project:</h2>
 </hr>
