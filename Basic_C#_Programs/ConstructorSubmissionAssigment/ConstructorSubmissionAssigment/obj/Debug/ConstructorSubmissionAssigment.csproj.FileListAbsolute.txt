@@ -5,3 +5,10 @@ C:\Users\psala\source\repos\ConstructorSubmissionAssigment\ConstructorSubmission
 C:\Users\psala\source\repos\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.csproj.CoreCompileInputs.cache
 C:\Users\psala\source\repos\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.exe
 C:\Users\psala\source\repos\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\bin\Debug\ConstructorSubmissionAssigment.exe.config
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\bin\Debug\ConstructorSubmissionAssigment.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\bin\Debug\ConstructorSubmissionAssigment.pdb
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.csproj.AssemblyReference.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.csproj.CoreCompileInputs.cache
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.exe
+C:\Users\psala\OneDrive\Desktop\The-Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\ConstructorSubmissionAssigment\ConstructorSubmissionAssigment\obj\Debug\ConstructorSubmissionAssigment.pdb
