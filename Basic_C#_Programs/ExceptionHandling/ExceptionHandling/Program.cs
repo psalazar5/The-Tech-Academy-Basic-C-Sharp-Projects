@@ -78,6 +78,9 @@ namespace ExceptionHandling
             {
                 Console.WriteLine("Click Enter");
             }
+
+            //-----------------------------------------------------------------------------------------------------------------//
+
             Console.ReadLine();
         }
 

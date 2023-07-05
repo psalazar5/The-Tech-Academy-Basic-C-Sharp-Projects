@@ -200,13 +200,13 @@ namespace Iteration
             //        {
             //            Console.WriteLine(i);
             //            break;
-            //        } 
+            //        }
             //    }
             //}
             //else
             //{
             //    Console.WriteLine("Input is not on the list."); //else if the if statement doesnt work.
-            //}           
+            //}
             //Console.ReadLine();
             //------------------------------------------------------------------------------------------------------------------//
 
@@ -238,6 +238,7 @@ namespace Iteration
             //Console.ReadLine();
 
             //---------------------------------------------------------------------------------------------------------------------//
+
             //Create a list of strings that has at least two identical strings in the list
             //Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
 
@@ -258,8 +259,10 @@ namespace Iteration
                     foodNames1.Add(food); // This adds the items into foodnames.1 empty list 
                 }
             }
+
             Console.WriteLine("FoodNames1 without duplicates:");
             foreach (string food in foodNames1)
+
             {
                 Console.WriteLine(food);
             }

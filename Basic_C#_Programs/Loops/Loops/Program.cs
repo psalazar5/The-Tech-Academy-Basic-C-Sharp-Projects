@@ -171,7 +171,8 @@ namespace Loops
                     case 25:
                         Console.WriteLine("You guessed my favorite! Awesome!");
                         myfavorite = true;
-                        break;
+                        break; 
+
                     default:
                         Console.WriteLine("Wrong number!");
                         Console.WriteLine("Pick my favorite number:");
