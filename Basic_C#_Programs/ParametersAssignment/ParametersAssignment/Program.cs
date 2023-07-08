@@ -39,6 +39,8 @@ namespace ParametersAssignment
             {
                 Console.WriteLine(thing);
             }
+
+            Console.ReadLine();
         }
     }
 }

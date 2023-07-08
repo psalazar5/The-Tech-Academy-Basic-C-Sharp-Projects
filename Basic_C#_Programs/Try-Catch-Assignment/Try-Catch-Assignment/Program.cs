@@ -10,7 +10,7 @@ namespace Try_Catch_Assignment
     {
         static void Main(string[] args)
         { //asking user to input their age 
-            Console.WriteLine("What is your age? ");
+            Console.WriteLine("What is your age? I am going to guess your birth year!");
             string input = Console.ReadLine();
 
             try //now display users year they were born 
@@ -21,7 +21,7 @@ namespace Try_Catch_Assignment
 
                 int currentYear = DateTime.Now.Year; //int current year by DateTime.Now.Year (CurrentYear)
                 int birthYear = currentYear - age; // int birthYear would we're doing currentYear - age to get their birth year.
-                Console.WriteLine("You were born in " + birthYear); //displays birthyear from the currentYear - age = birthYear.
+                Console.WriteLine($"You were born in {birthYear}"); //displays birthyear from the currentYear - age = birthYear.
 
             }
             catch(FormatException)

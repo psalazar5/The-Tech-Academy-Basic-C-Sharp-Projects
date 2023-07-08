@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bBeT75sr874kWlZWZLRuFuCxa4UnPUMSGub1lQIt1ukacs9AZgdd6DhAaZXH9gx6qEeuyOzuR5X0Jugbcx5+vw==",
+  "dgSpecHash": "Mz9wdyjOg+w7NbhW/wM25QLXHYg8WdHBTbLdp8f9odF3a3I9n5w3ruE3m8pXbuXBU/vi87FA8uy+SYgw1Z9BUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\ServerTimeInWebBrowser\\ServerTimeInWebBrowser\\ServerTimeInWebBrowser.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
