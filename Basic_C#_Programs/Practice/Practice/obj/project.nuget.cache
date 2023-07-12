@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrGIAYFeeW35Zc4Gmr5hn8+0k/RB6oZ+vhBXsdzF5tLhwAgcb/l47lkfleGCPdieJFFoJtCNDDuJREC9ub6Ivg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\psala\\OneDrive\\Desktop\\The-Tech-Academy-Basic-C-Sharp-Projects\\Basic_C#_Programs\\Practice\\Practice\\Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\psala\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
