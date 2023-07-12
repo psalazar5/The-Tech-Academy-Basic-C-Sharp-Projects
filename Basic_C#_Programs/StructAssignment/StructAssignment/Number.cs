@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace StructAssignment
 {
-    struct Number //defined struct called number with property "amount" of type decimal 
+    struct Number /*defined struct called number with property "amount" of type decimal 
+                   *  data type in C# that combines different data variables into a single unit. */
     {
         public decimal Amount { get; set; }
     }
