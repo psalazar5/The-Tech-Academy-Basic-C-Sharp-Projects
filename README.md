@@ -1,6 +1,5 @@
 # The Tech Academy's C# Programs!
-Explore my collection of small projects showcasing my proficiency in basic C# and .NetFramework. This repository includes the following projects:
-
+Discover a collection of my small projects highlighting my skills in fundamental C# and .NET Framework. This repository encompasses the following projects:
 
 1. [Twenty-One-Casino-Game](https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOne) - A web application based on the game of blackjack. It utilizes classes, loops, methods, and branching statements to create a fully functional console application, demonstrating the application of C# concepts in real-world scenarios.
 
