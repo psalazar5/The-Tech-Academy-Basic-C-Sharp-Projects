@@ -1,7 +1,7 @@
 # The Tech Academy's C# Programs!
 Discover a collection of my small projects highlighting my skills in fundamental C# and .NET Framework. This repository encompasses the following projects:
 
-1. [Twenty-One-Casino-Game](https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOne) - A web application based on the game of blackjack. It utilizes classes, loops, methods, and branching statements to create a fully functional console application, demonstrating the application of C# concepts in real-world scenarios.
+1. [Twenty-One-Casino-Game]([https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/TwentyOne](https://github.com/psalazar5/TheTechAcademyCSharpPrograms/tree/main/Basic_C%23_Programs/TwentyOneGame)) - A web application based on the game of blackjack. It utilizes classes, loops, methods, and branching statements to create a fully functional console application, demonstrating the application of C# concepts in real-world scenarios.
 
 2. [Car-Insurance-Project](https://github.com/psalazar5/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Basic_C%23_Programs/CarInsurance) - An MVC web application that simulates a car insurance website. Users can input policy information, and the application calculates a quote based on business logic. It utilizes home and insuree controllers, model binding, and action methods to create, edit, and delete records. The project also incorporates real-world logic to enable users to check out details and manage their policy data effectively.
    
